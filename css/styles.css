@@ -96,6 +96,11 @@ body {
   cursor: pointer;
 }
 
+.order-button:hover,
+.order-button:focus {
+  background: #188ce8;
+}
+
 /*Benefits*/
 
 .sub-title {
